@@ -1,0 +1,26 @@
+{
+    "horoscope": [
+        {
+            "text": "Получить гороскоп на сегодня",
+            "callback_data": "HoroscopeDay"
+        },
+        {
+            "text": "Подписаться на ежедневный гороскоп",
+            "callback_data": "SubscribeHoroscope"
+        },
+        {
+            "text": "Отписаться от ежедневного гороскопа",
+            "callback_data": "UnsubscribeHoroscope"
+        },
+        {
+            "text": "Назад",
+            "callback_data": "back"
+        }
+    ],
+    "menu": [
+        {
+            "text": "Получить гороскоп",
+            "callback_data": "Horoscope"
+        }
+    ]
+}

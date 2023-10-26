@@ -1,0 +1,12 @@
+{
+    "menu": [
+        {
+            "text": "Russian \uD83C\uDDF7\uD83C\uDDFA",
+            "callback_data": "RussianButton"
+        },
+        {
+            "text": "English \uD83C\uDDEC\uD83C\uDDE7",
+            "callback_data": "EnglandButton"
+        }
+    ]
+}

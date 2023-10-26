@@ -1,0 +1,130 @@
+{
+  "menu": {
+    "English": "Menu:",
+    "Russian": "Меню:",
+    "es": "Menú:",
+    "fr": "Menu:"
+  },
+  "choose_your_sign": {
+    "English": "Choose your sign:",
+    "Russian": "Выберите свой знак:",
+    "es": "Elige tu signo:",
+    "fr": "Choisissez votre signe:"
+  },
+  "choose_your_language": {
+    "English": "Choose your language:",
+    "Russian": "Выберите свой язык:",
+    "es": "Elige tu idioma:",
+    "fr": "Choisissez votre langue:"
+  },
+  "language_set_to": {
+    "English": "Language set to {language}",
+    "Russian": "Язык установлен на {language}",
+    "es": "Idioma establecido en {language}",
+    "fr": "Langue définie sur {language}"
+  },
+  "Help": {
+    "English": "To use this bot, first select your horoscope sign by clicking the 'Subscribe to Horoscope' button. Then, you can choose your preferred language by clicking the 'Select Language' button. The bot will send you a daily horoscope message at a specific time.",
+    "Russian": "Чтобы воспользоваться этим ботом, сначала выберите свой знак гороскопа, нажав на кнопку \"Подписаться на гороскоп\". Затем вы можете выбрать предпочитаемый язык, нажав на кнопку \"Выбрать язык\". Бот отправит вам ежедневное сообщение с гороскопом в определенное время.",
+    "es": "Para usar este bot, primero seleccione su signo del horóscopo haciendo clic en el botón' Suscribirse al Horóscopo'. Luego, puede elegir su idioma preferido haciendo clic en el botón' Seleccionar idioma'. El bot le enviará un mensaje diario del horóscopo a una hora específica.",
+    "fr": "Pour utiliser ce bot, sélectionnez d'abord votre signe astrologique en cliquant sur le bouton \"S'abonner à l'horoscope\". Ensuite, vous pouvez choisir votre langue préférée en cliquant sur le bouton \"Sélectionner la langue\". Le bot vous enverra un message d'horoscope quotidien à une heure précise.\n"
+  },
+  "signs": {
+    "English": {
+      "aries": "Aries",
+      "taurus": "Taurus",
+      "gemini": "Gemini",
+      "cancer": "Cancer",
+      "leo": "Leo",
+      "virgo": "Virgo",
+      "libra": "Libra",
+      "scorpio": "Scorpio",
+      "sagittarius": "Sagittarius",
+      "capricorn": "Capricorn",
+      "aquarius": "Aquarius",
+      "pisces": "Pisces"
+    },
+    "ru": {
+      "aries": "Овен",
+      "taurus": "Телец",
+      "gemini": "Близнецы",
+      "cancer": "Рак",
+      "leo": "Лев",
+      "virgo": "Дева",
+      "libra": "Весы",
+      "scorpio": "Скорпион",
+      "sagittarius": "Стрелец",
+      "capricorn": "Козерог",
+      "aquarius": "Водолей",
+      "pisces": "Рыбы"
+    },
+    "es": {
+      "aries": "Aries",
+      "taurus": "Tauro",
+      "gemini": "Géminis",
+      "cancer": "Cáncer",
+      "leo": "Leo",
+      "virgo": "Virgo",
+      "libra": "Libra",
+      "scorpio": "Escorpio",
+      "sagittarius": "Sagitario",
+      "capricorn": "Capricornio",
+      "aquarius": "Acuario",
+      "pisces": "Piscis"
+    },
+    "fr": {
+      "aries": "Bélier",
+      "taurus": "Taureau",
+      "gemini": "Gémeaux",
+      "cancer": "Cancer",
+      "leo": "Lion",
+      "virgo": "Vierge",
+      "libra": "Balance",
+      "scorpio": "Scorpion",
+      "sagittarius": "Sagittaire",
+      "capricorn": "Capricorne",
+      "aquarius": "Verseau",
+      "pisces": "Poissons"
+    }
+  },
+  "Subscribe to Horoscope": {
+    "English": "Subscribe to Horoscope",
+    "Russian": "Подпишитесь на гороскоп",
+    "es": "Suscribirse al Horóscopo",
+    "fr": "S'abonner à l'Horoscope"},
+  "Horoscope": {
+    "en": "Horoscope",
+    "Russian": "Гороскоп",
+    "es": "Horóscopo",
+    "fr": "l'Horoscope"},
+  "Select Language": {
+    "English": "Select Language:",
+    "Russian": "Выберите язык:",
+    "es": "Select Language:",
+    "fr": "Sélectionnez la Langue:"
+  },
+  "language_help": {
+    "English": "help",
+    "Russian": "Руководство",
+    "es": "Guía",
+    "fr": "Aide"
+  },
+  "back": {
+    "English": "Back",
+    "Russian": "Назад",
+    "es": "espalda",
+    "fr": "retour"
+  },
+  "subscribe": {
+    "English": "You subscribed to the daily horoscope",
+    "Russian": "Вы подписались на ежедневный гороскоп",
+    "es": "espalda:",
+    "fr": "retour:"
+  },
+  "unsubscribe": {
+    "English": "You have unsubscribed from the daily horoscope",
+    "Russian": "Вы отписались от ежедневного гороскопа",
+    "es": "espalda:",
+    "fr": "retour:"
+  }
+}

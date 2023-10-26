@@ -1,0 +1,34 @@
+{
+    "horoscope": [
+        {
+            "text": "Get a horoscope for today",
+            "callback_data": "HoroscopeDay"
+        },
+        {
+            "text": "Subscribe to the daily horoscope",
+            "callback_data": "SubscribeHoroscope"
+        }
+        ,
+        {
+            "text": "Unsubscribing from the daily horoscope",
+            "callback_data": "UnsubscribeHoroscope"
+        },
+        {
+            "text": "Back",
+            "callback_data": "back"
+        }
+
+    ],
+    "menu": [
+        {
+            "text": "Get horoscope",
+            "callback_data": "Horoscope"
+        }
+    ],
+    "back":[
+        {
+            "text": "Back",
+            "callback_data": "back"
+        }
+    ]
+}
